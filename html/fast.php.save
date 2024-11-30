@@ -1,0 +1,6 @@
+<?php
+     system ( "/home/pi/Documents/bouncetest.sh" );
+?>
+y<script type='text/javascript'>
+     self.close();
+</script>
